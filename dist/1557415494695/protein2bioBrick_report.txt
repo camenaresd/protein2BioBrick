@@ -1,0 +1,88 @@
+Job ID# 1557415494695
+
+Runtime Information for sequence 0
+Protein sequence is 479 amino acids long
+Found reptitive motif gctgctgc at position 1118. Replaced with sequence gctcttac
+Found reptitive motif ataacatt at position 265. Replaced with sequence ataatata
+Found reptitive motif ttctgacc at position 1204. Replaced with sequence ttttgact
+Found reptitive motif gaaaattc at position 71. Replaced with sequence gaagatcc
+Found reptitive motif atgaaaac at position 349. Replaced with sequence atgagaat
+Found reptitive motif atgaagat at position 1150. Replaced with sequence atgaggac
+Found reptitive motif ccggcgct at position 1362. Replaced with sequence cccgctct
+Found reptitive motif ggaaggca at position 503. Replaced with sequence ggagggaa
+Found reptitive motif cgcgaatt at position 1239. Replaced with sequence cgggagtt
+Found reptitive motif gcgcgccg at position 292. Replaced with sequence gcgcaccc
+Found reptitive motif accctgca at position 336. Replaced with sequence acactaca
+Found reptitive motif gcatgcgc at position 1322. Replaced with sequence gcacgcac
+Found reptitive motif atgcgcgc at position 875. Replaced with sequence atgtgccc
+Found reptitive motif ttggcggc at position 553. Replaced with sequence ttgggggg
+Found reptitive motif tggcggcg at position 1006. Replaced with sequence tggccgct
+Found reptitive motif gcggcgat at position 540. Replaced with sequence gctgcaat
+Found reptitive motif cgggctat at position 979. Replaced with sequence cggggtac
+Found reptitive motif atggcagc at position 814. Replaced with sequence atgggtca
+Found reptitive motif tggcagcc at position 863. Replaced with sequence tgggtcgc
+Found reptitive motif ccgcaaaa at position 1223. Replaced with sequence ccggaaga
+Found reptitive motif gcaaaacc at position 958. Replaced with sequence gcaagaca
+Found reptitive motif tgcgaaac at position 1385. Replaced with sequence tgctaagc
+Found reptitive motif ctggcggg at position 726. Replaced with sequence cttgcagg
+Found reptitive motif tggcgggc at position 700. Replaced with sequence tggccgga
+Found reptitive motif gcgcgagc at position 892. Replaced with sequence gcgcctcg
+Found reptitive motif agcggcgg at position 936. Replaced with sequence agtggggg
+Found reptitive motif gatggcgt at position 650. Replaced with sequence gatggcct
+Found reptitive motif atggcgtg at position 919. Replaced with sequence atggagta
+Found reptitive motif agcattaa at position 786. Replaced with sequence tccatcaa
+Found reptitive motif aaacagcg at position 1311. Replaced with sequence aagcaacg
+Found reptitive motif tttatggg at position 811. Replaced with sequence tttacggc
+Found reptitive motif gcagcgcg at position 1270. Replaced with sequence gctccgca
+Found reptitive motif cagcgcgg at position 1410. Replaced with sequence caaagagg
+Found reptitive motif agaacgcg at position 748. Replaced with sequence agaatgcc
+Found reptitive motif aacgcgcg at position 1315. Replaced with sequence aaagggct
+Found reptitive motif ggaaattg at position 1376. Replaced with sequence ggagatcg
+Found reptitive motif gaaattgc at position 1104. Replaced with sequence gagatcgc
+Found reptitive motif gatgtgat at position 1170. Replaced with sequence gacgtaat
+Found reptitive motif aaagaaaa at position 1293. Replaced with sequence aaggagaa
+Found reptitive motif tgagcctg at position 739. Replaced with sequence tgtcattg
+Found reptitive motif cagcctga at position 851. Replaced with sequence ctctttaa
+Found reptitive motif ggcgcgct at position 908. Replaced with sequence ggcacggt
+Found reptitive motif gcgcgctg at position 826. Replaced with sequence gcgcctta
+Found reptitive motif ctgatggc at position 1002. Replaced with sequence ctaatggc
+Found reptitive motif tgatggcc at position 697. Replaced with sequence tgatggca
+Found reptitive motif cggtgatt at position 805. Replaced with sequence cggtcatc
+Found reptitive motif ttattgcg at position 1402. Replaced with sequence ttatagct
+Found reptitive motif gcgagcct at position 720. Replaced with sequence gcctccct
+Found reptitive motif gcgggcat at position 1047. Replaced with sequence gccggtat
+Found reptitive motif atgcgcag at position 970. Replaced with sequence atgcacag
+Found reptitive motif ttttatgg at position 1064. Replaced with sequence tttcatgg
+Found reptitive motif gggcggcc at position 1193. Replaced with sequence ggggggac
+Found reptitive motif aagtgggc at position 1423. Replaced with sequence aagtcgga
+Found no instance of restriction enzyme motifgaattc
+Found no instance of restriction enzyme motiftctaga
+Found no instance of restriction enzyme motifactagt
+Found restriction enzyme motif ctgcag at position 447
+Found no instance of restriction enzyme motifgaattc
+Found no instance of restriction enzyme motiftctaga
+Found no instance of restriction enzyme motifactagt
+Found restriction enzyme motif ctgcag at position 1056
+Found no instance of restriction enzyme motifgaattc
+Found no instance of restriction enzyme motiftctaga
+Found no instance of restriction enzyme motifactagt
+Found restriction enzyme motif ctgcag at position 1392
+Found no instance of restriction enzyme motifgaattc
+Found no instance of restriction enzyme motiftctaga
+Found no instance of restriction enzyme motifactagt
+Found no instance of restriction enzyme motifctgcag
+Found no instance of restriction enzyme motifgcggccgc
+402 instances of 1st ranked codons.
+54 instances of 2nd ranked codons.
+33 instances of 3rd ranked codons.
+27 instances of 4th ranked codons.
+3 instances of 5th ranked codons.
+7 instances of 6th ranked codons.
+
+*
+
+Source Filename: DSY3156.txt
+0 sequences retrieved
+Assembly Standard chosen: GoldenGate-RFC10
+Prefix and Suffix added
+56 milliseconds of runtime
